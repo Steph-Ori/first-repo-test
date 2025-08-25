@@ -12,7 +12,7 @@ It was to help show and practice Java object-oriented programming concepts like 
 
 ---
 
-## Programming Concepts Used
+## Concepts Used
 - **Abstract Class (`Shape3D`)** – defines `Volume()` and `compareTo()`  
 - **Inheritance** – `Cuboid` and `Cylinder` extend `Shape3D`  
 - **Encapsulation** – private for shape dimensions  
@@ -25,6 +25,6 @@ It was to help show and practice Java object-oriented programming concepts like 
   - Cuboid → width = 8, depth = 12, height = 95  
   - Cylinder → radius = 30, height = 59  
 
-## Expected Outputs
+## Outputs
 A Console message showing which shape has the greater volume or if they are equal.
 
